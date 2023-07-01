@@ -117,3 +117,88 @@ header {
 .nav a:hover {
   background-color: rgb(0, 8, 255);
 }
+.flex-container1{
+  width:100%;
+  display:flex;
+}
+.flex-box1{
+  width:200px;
+  height:150px;
+  background: linear-gradient(rgb(239, 9, 147),rgb(164, 17, 221));
+  color:white;
+  font-size: 15px;
+  text-align: center;
+  line-height: 150px;
+  border-radius:20px;
+  margin-left: 10px;
+}
+.flex-box2{
+  width:200px;
+  height:150px;
+  background: linear-gradient(rgb(35, 1, 1),rgb(240, 12, 12));
+  color:white;
+  font-size: 15px;
+  text-align: center;
+  line-height: 150px;
+  border-radius:20px;
+  margin-left: 10px;
+}
+.flex-box3{
+  width:200px;
+  height:150px;
+  background: linear-gradient(rgb(35, 1, 1),rgb(240, 12, 175));
+  color:white;
+  font-size: 15px;
+  text-align: center;
+  line-height: 150px;
+  border-radius:20px;
+  margin-left: 10px;
+}
+.flex-box4{
+  width:200px;
+  height:150px;
+  background: linear-gradient(rgb(4, 137, 26),rgb(59, 237, 4));
+  color:white;
+  font-size: 15px;
+  text-align: center;
+  line-height: 150px;
+  border-radius:20px;
+  margin-left: 10px;
+}
+.flex-container2{
+  width:100%;
+  display:flex;
+}
+.flex-box5{
+  width:200px;
+  height:150px;
+  background: linear-gradient(rgb(10, 2, 115),rgb(80, 85, 231));
+  color:white;
+  font-size: 15px;
+  text-align: center;
+  line-height: 150px;
+  border-radius:20px;
+  margin-left: 10px;
+}
+.flex-box6{
+  width:200px;
+  height:150px;
+  background: linear-gradient(rgb(1, 22, 23),rgb(51, 221, 215));
+  color:white;
+  font-size: 15px;
+  text-align: center;
+  line-height: 150px;
+  border-radius:20px;
+  margin-left: 10px;
+}
+.flex-box7{
+  width:200px;
+  height:150px;
+  background: linear-gradient(rgb(73, 1, 98),rgb(172, 9, 227));
+  color:white;
+  font-size: 15px;
+  text-align: center;
+  line-height: 150px;
+  border-radius:20px;
+  margin-left: 10px;
+}
