@@ -43,7 +43,7 @@ header{
     padding:2px 15px;
     border-radius:20px;
     transition:0.3s;
-    transition-property:backgroung;
+    transition-property:background;
 }
 .navigation a:not(:last-child){
   margin-right:30px;
