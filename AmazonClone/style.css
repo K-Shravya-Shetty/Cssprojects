@@ -7,6 +7,8 @@
     height:60px;
     background-color:#0f1111;
     color:white;
+    display:flex;
+    align-items: center;
 }
 .nav-logo{
     height:50px;
@@ -17,4 +19,35 @@
     background-size:cover;
     height:50px;
     width:100%;
+}
+.border{
+    border:1.5px solid transparent;
+}
+.border:hover{
+    border:1.5px solid white;
+}
+/**box2**/
+.add-1{
+color:#cccccc;
+font-size: 0.85rem;
+margin-left:15px;
+}
+.add-2{
+font-size:1rem;
+margin-left: 3px;
+}
+.add-icon{
+    display:flex;
+    align-items: center;
+}
+/**box-3**/
+.nav-search{
+ display:flex;
+ background-color: blue;
+ width:620px;
+ height:40px;
+ border-radius:3px;
+}
+.search-select{
+    background-color: #f3f3f3;
 }
