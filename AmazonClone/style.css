@@ -114,3 +114,26 @@ font-size: 30px;
     font-size: 0.9rems;
     font-weight: 700;
 }
+/**heri-section**/
+.hero-section{
+ background-image: url("hero_image.jpg");
+ height:350px;
+ background-size:cover;
+ display:flex;
+ justify-content: center;
+ align-items: flex-end;
+}
+.hero-msg{
+    background-color: white;
+    color:black;
+    height:40px;
+    display:flex;
+    align-items: center;
+    font-size: 0.85rem;
+    justify-content: center;
+    width:80%;
+    margin-bottom: 25px;
+}
+.hero-msg a{
+    color:#007185;
+}
