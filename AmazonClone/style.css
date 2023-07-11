@@ -207,3 +207,16 @@ ul a{
     height:50px;
     width:100px;
 }
+.foot-panel4{
+    background-color: #0f1111;
+    color: white;
+    height:76px;
+    padding-top: 25px;
+    text-align: center;
+}
+.pages{
+font-size: 0.7rem;
+}
+.copy-right{
+    padding-top: 5px;
+}
