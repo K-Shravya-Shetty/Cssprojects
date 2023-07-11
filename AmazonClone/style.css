@@ -173,3 +173,26 @@ font-size: 30px;
     align-items: center;
     font-size:0.5rem ;
 }
+.footer{
+    margin-top: 15px;
+}
+.foot-panel2{
+    background-color: #222f3d;
+    color:white;
+    height:500px;
+    display:flex;
+    justify-content: space-evenly;
+}
+ul{
+    margin-top: 20px;
+}
+ul a{
+    display:block;
+    font-size: 0.85rem;
+    margin-top:10px;
+    color:#dddddd;
+}
+.foot-panel3{
+    background-color: #222f3d;
+    color:white;
+}
