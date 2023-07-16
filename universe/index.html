@@ -53,7 +53,7 @@
         animation: orbit 2.7s linear infinite;
       }
       .earth::before,
-      .moon::before, .mars::before, .jupiter::before{
+      .moon::before, .mars::before{
         content: "";
         position: absolute;
         border-radius: 50%;
@@ -87,6 +87,25 @@
         height:3em;
         background-color:red;
       }
+      .jupiter::before{
+        content: "";
+        position:absolute;
+        border-radius: 50%;
+      }
+      .jupiter {
+        top: 10em;
+        left: 10em;
+        width: 50em;
+        height: 50em;
+        animation: orbit 4.9s linear infinite;
+      }
+      .jupiter:before{
+        top:3em;
+        right:3em;
+        width:2.8em;
+        height:2.8em;
+        background-color:brown;
+      }
       @keyframes orbit{
         to{
           transform: rotate(360deg);
@@ -101,6 +120,7 @@
         <div class="moon"></div>
       </div>
       <div class="mars"></div>
+      <div class="jupiter"></div>
     </div>
   </body>
 </html>
