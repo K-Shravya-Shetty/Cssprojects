@@ -38,3 +38,8 @@ h1{
     display:table-cell;
     vertical-align: middle;
 }
+.images{
+    height: 50px;
+    width:50px;
+    background-image: url(flower1.jpg);
+}
