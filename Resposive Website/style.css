@@ -117,6 +117,12 @@ header .fa-bars{
         padding:2rem;
     }
 }
+section{
+    padding:2rem;
+}
+.home{
+    background-position: center;
+}
 @media(max-width:786px){
     html .fa-bars{
         display:block;
