@@ -1,1 +1,0 @@
-console.log("hello world");//print the message on to the console
